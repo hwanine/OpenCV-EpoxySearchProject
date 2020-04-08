@@ -1,4 +1,4 @@
-# OpenCV-EpoxySearch
+# OpenCV-EpoxySearch-Project
 
 # 프로젝트 개요
 
